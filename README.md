@@ -1,8 +1,8 @@
 # Métodos de Ordenamiento: Insertion Sort 🧩
 
-## Materia: Estructura de datos
+## 📖 Materia: Estructura de datos
 
-### Integrantes del equipo
+### 👥 Integrantes del equipo
 
 | Matrícula   | Integrantes                            |
 |-------------|----------------------------------------|
