@@ -4,7 +4,7 @@
 
 ### Integrantes del equipo
 
-| Matrícula    | Nombre completo                        |
+| Matrícula   | Integrantes                            |
 |-------------|----------------------------------------|
 | 22230707    | Nayely Cancio Bautista                 |
 | 23230247    | Joel Orozco Joaquín                    |
@@ -25,23 +25,12 @@ Este proyecto muestra cómo funciona el algoritmo de ordenamiento **Insertion So
 - Se resaltan los apuntadores, pivotes y variables clave en cada iteración.
 - Ideal para aprender y enseñar cómo funciona este algoritmo.
 
-## 🚀 ¿Cómo usar el proyecto?
-
-1. Asegúrate de tener Python 3 instalado.
-2. Instala la librería matplotlib si no la tienes:
-   ```bash
-   pip install matplotlib
-   ```
-3. Ejecuta el archivo principal del proyecto:
-   ```bash
-   python insertion_sort_visual.py
-   ```
 
 ## 🖼️ Ejemplo visual
 
-Aquí va la imagen de ejemplo de la visualización:
+aqui pon la captura
 
-![Ejemplo de visualización de Insertion Sort](ruta/a/tu/imagen.png)
+![foto](.png)
 
 ---
 
@@ -50,10 +39,4 @@ Aquí va la imagen de ejemplo de la visualización:
 - [x] Implementación modular de Insertion Sort
 - [x] Visualización con matplotlib
 - [x] Resaltado de variables especiales
-- [ ] Otras mejoras futuras
 
----
-
-## 🙌 Agradecimientos
-
-Gracias a todos los integrantes del equipo y al profesor por el apoyo y la guía durante el desarrollo de este proyecto.
